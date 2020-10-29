@@ -22,7 +22,7 @@ public class numeroprimo {
             if (contador != 2) {
                 System.out.println("No es un número primo");
             } else {
-                System.out.println("Si es primo");
+                System.out.println("Si es un número primo");
             }
         } else System.out.println("Digitó un numero fuera del rango");
     }
